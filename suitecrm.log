@@ -1,0 +1,254 @@
+Thu Nov 17 19:57:40 2016 [550689][-none-][FATAL] Could not connect to DB server localhost as root. port : Access denied for user 'root'@'localhost' (using password: NO)
+Thu Nov 17 20:08:34 2016 [553412][1][FATAL] SugarPHPMailer encountered an error: No se ha configurado un servidor de correo saliente para el envío de correos. Por favor, configure o seleccione un servidor de correo saliente para la cuenta de correo que está utilizando en Configuración >> Cuenta de Correo.
+Thu Nov 17 20:08:34 2016 [553412][1][FATAL] SugarPHPMailer encountered an error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+Sun Nov 20 15:20:56 2016 [914763][1][FATAL] Failed to load original or custom subpanel data for eapm in modules//metadata/subpanels/.php
+Tue Nov 22 13:30:04 2016 [972552][seed_will_id][FATAL] SugarPHPMailer encountered an error: Invalid address: 
+Tue Nov 22 13:39:56 2016 [977107][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue Nov 22 13:39:56 2016 [977107][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Mon Apr 24 23:57:58 2017 [644087][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Mon Apr 24 23:57:58 2017 [644087][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Tue Apr 25 00:04:08 2017 [646372][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Tue Apr 25 00:04:08 2017 [646372][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Tue Apr 25 00:04:08 2017 [646372][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Tue Apr 25 00:12:22 2017 [648844][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Tue Apr 25 00:12:22 2017 [648844][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Tue Apr 25 00:12:22 2017 [648844][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Tue Apr 25 00:28:39 2017 [654030][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Tue Apr 25 00:28:39 2017 [654030][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Tue Apr 25 00:28:39 2017 [654030][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Tue Apr 25 00:31:43 2017 [655049][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteP/modules is not a file or a dir.
+Tue Apr 25 00:31:43 2017 [655049][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/Suite7/modules is not a file or a dir.
+Tue Apr 25 00:31:43 2017 [655049][1][FATAL] ERROR: rmdir_recursive(): argument cache/themes/SuiteR/modules is not a file or a dir.
+Fri May  5 16:02:35 2017 [296738][-none-][FATAL] SECURITY: User authentication for prueba failed
+Fri May  5 16:02:35 2017 [296738][-none-][FATAL] FAILED LOGIN:attempts[1] - prueba
+Fri May  5 16:03:06 2017 [296965][-none-][FATAL] SECURITY: User authentication for prueba failed
+Fri May  5 16:03:06 2017 [296965][-none-][FATAL] FAILED LOGIN:attempts[1] - prueba
+Fri May  5 17:17:21 2017 [342545][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri May  5 17:17:21 2017 [342545][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Fri May  5 17:17:46 2017 [342675][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri May  5 17:17:50 2017 [342675][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Fri May  5 17:18:11 2017 [343075][1][FATAL] SECURITY: User authentication for admin failed
+Fri May  5 17:18:15 2017 [343075][1][FATAL] FAILED LOGIN:attempts[2] - admin
+Sat May  6 10:33:21 2017 [904265][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat May  6 10:33:22 2017 [904265][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Sat May  6 10:35:59 2017 [905996][-none-][FATAL] SECURITY: User authentication for admin failed
+Sat May  6 10:35:59 2017 [905996][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 09:59:15 2017 [326672][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 09:59:15 2017 [326672][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:00:31 2017 [327815][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:00:31 2017 [327815][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:00:43 2017 [327887][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:00:43 2017 [327887][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:01:07 2017 [328288][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:01:07 2017 [328288][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:01:25 2017 [328479][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:01:25 2017 [328479][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:29:21 2017 [348463][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:29:21 2017 [348463][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:29:38 2017 [348657][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:29:38 2017 [348657][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:29:45 2017 [348710][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:29:45 2017 [348710][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:29:58 2017 [348823][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:29:58 2017 [348823][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:30:17 2017 [349064][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:30:17 2017 [349064][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:30:29 2017 [349272][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:30:29 2017 [349272][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:30:39 2017 [349464][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:30:39 2017 [349464][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:31:04 2017 [349707][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:31:04 2017 [349707][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:31:12 2017 [349832][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:31:12 2017 [349832][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:40:28 2017 [356178][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:40:28 2017 [356178][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:40:33 2017 [356213][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:40:33 2017 [356213][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:40:58 2017 [356570][-none-][FATAL] SECURITY: User authentication for administrador failed
+Tue May  9 10:40:58 2017 [356570][-none-][FATAL] FAILED LOGIN:attempts[1] - administrador
+Tue May  9 10:41:29 2017 [356885][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:41:29 2017 [356885][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:43:04 2017 [358000][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:43:04 2017 [358000][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:44:12 2017 [358646][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:44:12 2017 [358646][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:44:29 2017 [358927][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:44:29 2017 [358927][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Tue May  9 10:44:47 2017 [359216][-none-][FATAL] SECURITY: User authentication for admin failed
+Tue May  9 10:44:47 2017 [359216][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Thu Jun  1 10:16:10 2017 [957709][-none-][FATAL] SECURITY: User authentication for lperez failed
+Thu Jun  1 10:16:10 2017 [957709][-none-][FATAL] FAILED LOGIN:attempts[1] - lperez
+Thu Jun  1 10:16:19 2017 [957788][-none-][FATAL] SECURITY: User authentication for lperez4 failed
+Thu Jun  1 10:16:19 2017 [957788][-none-][FATAL] FAILED LOGIN:attempts[1] - lperez4
+Thu Jun  1 15:35:14 2017 [81391][-none-][FATAL] SECURITY: User authentication for lperez failed
+Thu Jun  1 15:35:14 2017 [81391][-none-][FATAL] FAILED LOGIN:attempts[1] - lperez
+Fri Jun 16 14:59:43 2017 [19435][-none-][FATAL] SECURITY: User authentication for avizquel failed
+Fri Jun 16 14:59:43 2017 [19435][-none-][FATAL] FAILED LOGIN:attempts[1] - avizquel
+Thu Jun 22 19:01:18 2017 [24810][80343642-e355-1c38-662f-59121e97591e][FATAL] IP Address mismatch: SESSION IP: 191.115.165.62 CLIENT IP: 190.22.125.192
+Fri Jun 23 13:59:47 2017 [8689][-none-][FATAL] SECURITY: User authentication for aquintana failed
+Fri Jun 23 13:59:47 2017 [8689][-none-][FATAL] FAILED LOGIN:attempts[1] - aquintana
+Fri Jun 23 14:00:35 2017 [9716][-none-][FATAL] SECURITY: User authentication for aquintana@tstalent.net failed
+Fri Jun 23 14:00:35 2017 [9716][-none-][FATAL] FAILED LOGIN:attempts[1] - aquintana@tstalent.net
+Fri Jun 23 14:00:54 2017 [9883][-none-][FATAL] SECURITY: User authentication for ivaldez@tstalent.net failed
+Fri Jun 23 14:00:54 2017 [9883][-none-][FATAL] FAILED LOGIN:attempts[1] - ivaldez@tstalent.net
+Fri Jun 23 14:01:04 2017 [9998][-none-][FATAL] SECURITY: User authentication for ivaldeztstalent.net failed
+Fri Jun 23 14:01:04 2017 [9998][-none-][FATAL] FAILED LOGIN:attempts[1] - ivaldeztstalent.net
+Sun Jun 25 09:13:45 2017 [25867][-none-][FATAL] SECURITY: User authentication for avizquel failed
+Sun Jun 25 09:13:45 2017 [25867][-none-][FATAL] FAILED LOGIN:attempts[1] - avizquel
+Sun Jun 25 09:15:51 2017 [27152][-none-][FATAL] SECURITY: User authentication for avizquel failed
+Sun Jun 25 09:15:51 2017 [27152][-none-][FATAL] FAILED LOGIN:attempts[1] - avizquel
+Mon Jun 26 09:30:05 2017 [5982][-none-][FATAL] SECURITY: User authentication for alezama failed
+Mon Jun 26 09:30:09 2017 [5982][-none-][FATAL] FAILED LOGIN:attempts[1] - alezama
+Mon Jun 26 09:30:54 2017 [7227][-none-][FATAL] SECURITY: User authentication for alezama failed
+Mon Jun 26 09:30:54 2017 [7227][-none-][FATAL] FAILED LOGIN:attempts[1] - alezama
+Mon Jun 26 09:31:06 2017 [7383][-none-][FATAL] SECURITY: User authentication for alezama failed
+Mon Jun 26 09:31:06 2017 [7383][-none-][FATAL] FAILED LOGIN:attempts[1] - alezama
+Fri Jun 30 11:48:34 2017 [22032][-none-][FATAL] SECURITY: User authentication for aavila@tstalent.net failed
+Fri Jun 30 11:48:34 2017 [22032][-none-][FATAL] FAILED LOGIN:attempts[1] - aavila@tstalent.net
+Fri Jun 30 12:27:02 2017 [21995][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL] Exception in Controller: Error al recuperar registro.  Este registro puede haber sido eliminado o puede que no esté autorizado para verlo.
+Mon Jul  3 15:35:55 2017 [6338][1][FATAL] IP Address mismatch: SESSION IP: 190.21.66.56 CLIENT IP: 190.21.91.112
+Mon Jul  3 16:28:50 2017 [29960][aa556237-4b1e-57ef-b6ab-594419f727b2][FATAL] IP Address mismatch: SESSION IP: 201.211.179.168 CLIENT IP: 201.210.169.219
+Mon Jul  3 16:42:45 2017 [9750][-none-][FATAL] SECURITY: User authentication for aavila failed
+Mon Jul  3 16:42:45 2017 [9750][-none-][FATAL] FAILED LOGIN:attempts[1] - aavila
+Mon Jul  3 16:43:21 2017 [10231][-none-][FATAL] SECURITY: User authentication for aavila failed
+Mon Jul  3 16:43:21 2017 [10231][-none-][FATAL] FAILED LOGIN:attempts[1] - aavila
+Mon Jul  3 16:48:55 2017 [16251][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Mon Jul  3 16:48:56 2017 [16264][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Mon Jul  3 16:49:23 2017 [16996][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Tue Jul  4 09:30:56 2017 [6735][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Tue Jul  4 09:30:58 2017 [6773][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Tue Jul  4 11:33:15 2017 [14876][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Tue Jul  4 11:33:18 2017 [14968][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Fri Jul  7 16:20:50 2017 [27550][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Fri Jul  7 16:20:52 2017 [27589][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Mon Jul 10 14:28:12 2017 [1945][cf6410f0-e40d-f9e6-14cb-594d55057db3][FATAL] IP Address mismatch: SESSION IP: 201.210.169.219 CLIENT IP: 201.211.75.221
+Mon Jul 10 16:02:01 2017 [21106][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Mon Jul 10 16:02:09 2017 [21424][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Fri Jul 14 09:19:12 2017 [11777][cf6410f0-e40d-f9e6-14cb-594d55057db3][FATAL] IP Address mismatch: SESSION IP: 201.211.42.96 CLIENT IP: 201.211.73.60
+Tue Aug  1 18:25:32 2017 [7504][-none-][FATAL] SECURITY: User authentication for lperez4 failed
+Tue Aug  1 18:25:32 2017 [7504][-none-][FATAL] FAILED LOGIN:attempts[1] - lperez4
+Wed Aug 16 12:58:41 2017 [2165][-none-][FATAL] SECURITY: User authentication for aquintana failed
+Wed Aug 16 12:58:41 2017 [2165][-none-][FATAL] FAILED LOGIN:attempts[1] - aquintana
+Wed Aug 16 15:08:27 2017 [6603][-none-][FATAL] SECURITY: User authentication for alezama failed
+Wed Aug 16 15:08:27 2017 [6603][-none-][FATAL] FAILED LOGIN:attempts[1] - alezama
+Thu Aug 17 14:44:49 2017 [16482][-none-][FATAL] SECURITY: User authentication for aavila@tstalent.net failed
+Thu Aug 17 14:44:49 2017 [16482][-none-][FATAL] FAILED LOGIN:attempts[1] - aavila@tstalent.net
+Thu Aug 17 14:45:06 2017 [17504][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Thu Aug 17 14:45:18 2017 [17692][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Thu Aug 17 14:52:23 2017 [24275][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Thu Aug 17 14:52:26 2017 [24311][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Thu Aug 17 16:40:50 2017 [7403][-none-][FATAL] SECURITY: User authentication for lperez4 failed
+Thu Aug 17 16:40:50 2017 [7403][-none-][FATAL] FAILED LOGIN:attempts[1] - lperez4
+Thu Aug 17 16:41:01 2017 [7546][-none-][FATAL] SECURITY: User authentication for lperez4 failed
+Thu Aug 17 16:41:01 2017 [7546][-none-][FATAL] FAILED LOGIN:attempts[1] - lperez4
+Thu Aug 17 16:41:14 2017 [7890][-none-][FATAL] SECURITY: User authentication for lperez4 failed
+Thu Aug 17 16:41:14 2017 [7890][-none-][FATAL] FAILED LOGIN:attempts[1] - lperez4
+Thu Aug 17 16:41:37 2017 [8274][-none-][FATAL] SECURITY: User authentication for lperez4 failed
+Thu Aug 17 16:41:37 2017 [8274][-none-][FATAL] FAILED LOGIN:attempts[1] - lperez4
+Tue Aug 29 11:19:20 2017 [10547][-none-][FATAL] SECURITY: User authentication for aavila@tstalent.net failed
+Tue Aug 29 11:19:20 2017 [10547][-none-][FATAL] FAILED LOGIN:attempts[1] - aavila@tstalent.net
+Tue Aug 29 11:19:29 2017 [10628][-none-][FATAL] SECURITY: User authentication for aavila@tstalent.net failed
+Tue Aug 29 11:19:29 2017 [10628][-none-][FATAL] FAILED LOGIN:attempts[1] - aavila@tstalent.net
+Tue Aug 29 11:19:37 2017 [10703][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Tue Aug 29 11:19:45 2017 [10793][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Wed Aug 30 09:09:36 2017 [14014][-none-][FATAL] FAILED LOGIN:attempts[1] - alezama
+Fri Sep  1 10:40:37 2017 [5570][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Fri Sep  1 10:40:44 2017 [5655][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Wed Sep 20 14:13:16 2017 [8420][-none-][FATAL] SECURITY: User authentication for mgonzalez failed
+Wed Sep 20 14:13:16 2017 [8420][-none-][FATAL] FAILED LOGIN:attempts[1] - mgonzalez
+Sun Oct 29 20:49:37 2017 [17320][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun Oct 29 20:49:38 2017 [17320][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Sat Nov 25 08:39:58 2017 [1896][1][FATAL] quotes for projects_quotes failed to load
+
+Sat Nov 25 08:39:58 2017 [1896][1][FATAL] error loading relationship quotes
+Sat Nov 25 08:40:07 2017 [2290][1][FATAL] quotes for projects_quotes failed to load
+
+Sat Nov 25 08:40:07 2017 [2290][1][FATAL] quotes for projects_quotes failed to load
+
+Sat Nov 25 08:48:15 2017 [8912][392003a9-b9b0-05cf-1c16-5911f5143e69][FATAL] quotes for projects_quotes failed to load
+
+Sat Nov 25 08:48:15 2017 [8912][392003a9-b9b0-05cf-1c16-5911f5143e69][FATAL] quotes for projects_quotes failed to load
+
+Tue Jan 23 13:26:23 2018 [29658][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Tue Jan 23 13:26:41 2018 [29828][1eb9a9c7-3cbc-6e01-b142-59121ed50004][FATAL]  Query Failed:  SELECT  aow_processed.id , aow_processed.name , aow_processed.date_entered , aow_processed.created_by  FROM aow_processed  where ((aow_processed.assigned_user_id = '1eb9a9c7-3cbc-6e01-b142-59121ed50004')) AND aow_processed.deleted=0 ORDER BY aow_processed.date_entered DESC LIMIT 0,6: MySQL error 1054: Unknown column 'aow_processed.assigned_user_id' in 'where clause'
+Mon Oct  1 09:35:32 2018 [3910409][-none-][FATAL] SECURITY: User authentication for admin failed
+Mon Oct  1 09:35:32 2018 [3910409][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Mon Oct  1 09:36:29 2018 [3911340][-none-][FATAL] SECURITY: User authentication for admin failed
+Mon Oct  1 09:36:29 2018 [3911340][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Sun Oct 14 22:10:52 2018 [665089][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun Oct 14 22:10:52 2018 [665089][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Sun Oct 14 22:10:59 2018 [665153][-none-][FATAL] SECURITY: User authentication for administrador failed
+Sun Oct 14 22:10:59 2018 [665153][-none-][FATAL] FAILED LOGIN:attempts[1] - administrador
+Thu Jan 27 15:45:07 2022 [4976][-none-][FATAL] Could not connect to DB server localhost as tstalent_user. port : Access denied for user 'tstalent_user'@'localhost' (using password: YES)
+Thu Jan 27 15:46:09 2022 [4976][-none-][FATAL] Could not connect to DB server localhost as tstalent_user. port : Access denied for user 'tstalent_user'@'localhost' (using password: YES)
+Thu Jan 27 15:55:56 2022 [4976][-none-][FATAL] Could not connect to DB server localhost as tstalent_user. port : Access denied for user 'tstalent_user'@'localhost' (using password: YES)
+Thu Jan 27 15:59:45 2022 [4976][-none-][FATAL] Could not connect to DB server localhost as tstalent_user. port : Access denied for user 'tstalent_user'@'localhost' (using password: YES)
+Thu Jan 27 15:59:59 2022 [4976][-none-][FATAL] Could not connect to DB server localhost as tstalent_user. port : Access denied for user ''@'localhost' to database 'crm'
+Thu Jan 27 16:00:03 2022 [4976][-none-][FATAL] Could not connect to DB server localhost as tstalent_user. port : Access denied for user ''@'localhost' to database 'crm'
+Thu Jan 27 16:00:43 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:00:44 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:00:44 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('3ea2176f-8385-6b59-bf86-61f2b3e83ab9','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:03:53 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:03:53 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:03:53 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('c2b90124-b5f1-8eeb-8602-61f2b4f28632','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:06:17 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:06:17 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:06:17 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('80e72a7b-a65e-01c6-da41-61f2b4631422','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:06:28 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:06:28 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:06:28 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('750fa7b0-465d-e242-6902-61f2b460e0c3','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:07:55 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:07:55 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:07:55 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('73272c69-b64f-d4f7-b170-61f2b55968b6','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:08:16 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:08:16 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:08:16 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('b05bedfe-34c6-7cb0-dd60-61f2b54750ac','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:12:51 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:12:51 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:12:51 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('643cb11c-e5cd-c650-aff5-61f2b65af706','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:12:55 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:12:56 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:12:56 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('32b90e1c-efcc-4c8f-7f89-61f2b6cf5f9d','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:13:59 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:13:59 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:13:59 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('74617ae6-82c6-73a3-6542-61f2b6023072','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:18:20 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:18:20 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:18:20 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('7c5f95c0-259c-ba15-4dbd-61f2b70b2e48','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:18:22 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:18:22 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:18:22 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('d5e58c4c-ef8a-26f8-6085-61f2b7f19ac2','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:18:23 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:18:23 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:18:23 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('e594af35-654e-0f31-b76a-61f2b759647a','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:19:03 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:19:03 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:19:03 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('eeda1fe4-d510-2c97-c7eb-61f2b7ed4cc1','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:19:04 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:19:04 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:19:04 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('dd3c2ca6-447d-34f7-831c-61f2b715c2ae','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:19:05 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:19:05 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:19:05 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('81b0e72f-50a0-5ed8-b740-61f2b7030513','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:19:06 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:19:06 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:19:06 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('960ff756-74d9-f375-e957-61f2b7ee6e9d','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:19:06 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:19:06 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:19:06 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('ce765111-ee83-2aa7-0ebf-61f2b75b5d2f','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:19:07 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:19:07 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:19:07 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('b658078d-08eb-dad0-c00d-61f2b78bac20','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:22:20 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 16:22:20 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 16:22:20 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('b6861080-ebc5-9cb2-6ae2-61f2b8c9cda1','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 17:02:05 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 17:02:05 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 17:02:05 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('ede927b9-f9b9-22e5-ef21-61f2c1dd28bf','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 17:03:45 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 17:03:45 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 17:03:45 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('e69b86a2-8055-f990-6aae-61f2c2ea6333','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 17:05:43 2022 [4976][-none-][FATAL]  Query Failed: SELECT id, name, symbol, conversion_rate FROM currencies WHERE status = 'Active' and deleted = 0: MySQL error 1146: Table 'crm.currencies' doesn't exist
+Thu Jan 27 17:05:44 2022 [4976][-none-][FATAL]  Query Failed: SELECT id FROM outbound_email WHERE type = 'system': MySQL error 1146: Table 'crm.outbound_email' doesn't exist
+Thu Jan 27 17:05:44 2022 [4976][-none-][FATAL]  Query Failed: INSERT INTO outbound_email (id,name,type,user_id,mail_sendtype,mail_smtptype,mail_smtpserver,mail_smtpport,mail_smtpuser,mail_smtppass,mail_smtpauth_req,mail_smtpssl) VALUES ('19b205b9-8fc9-ac64-59f6-61f2c205a73c','system','system','1','SMTP','other','',25,'','',1,0): MySQL error 1146: Table 'crm.outbound_email' doesn't exist
